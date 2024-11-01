@@ -1,0 +1,598 @@
+# Copyright (C) 2019 Joommasters
+# This file is distributed under the same license as the JMS WooBlocks plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: JMS WooBlocks 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/jms-wooblocks\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-09-04T02:36:20+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0\n"
+"X-Domain: jms-wooblocks\n"
+
+#. Plugin Name of the plugin
+msgid "JMS WooBlocks"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://joommasters.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "JMS WooCommerce Blocks for the Gutenberg editor."
+msgstr ""
+
+#. Author of the plugin
+msgid "Joommasters"
+msgstr ""
+
+#: includes/class-hook.php:102
+msgid "Jmsthemes Blocks"
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:40
+msgid "Sorry, you cannot list resources."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:53
+msgid "Sorry, you cannot view this resource."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:183
+msgid "Unique identifier for the resource."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:189
+msgid "Product name."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:194
+msgid "Product variation attributes, if applicable."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:199
+msgid "Product URL."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:206
+msgid "Short description or excerpt from description."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:211
+msgid "Unique identifier."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:216
+msgid "Current product price."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:222
+msgid "Price formatted in HTML."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:228
+msgid "Reviews average rating."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:234
+msgid "List of images."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:241
+msgid "Image ID."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:246
+msgid "Image URL."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:252
+msgid "Image name."
+msgstr ""
+
+#: includes/RestApi/Controllers/Products.php:257
+msgid "Image alternative text."
+msgstr ""
+
+#: app/build/js/blocks.frontend.js:1
+#: app/build/js/categories-tab-frontend.js:1
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab-frontend.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/block/block-frontend.js:144
+#: app/src/block/block.js:203
+#: app/src/block/categories-tab/block-frontend.js:189
+#: app/src/block/featured-products/block.js:231
+#: app/src/block/filter-tab/block-frontend.js:181
+#: app/src/block/filter-tab/tab.js:137
+#: app/src/block/latest-products/block.js:226
+#: app/src/block/on-sale-products/block.js:230
+#: app/src/block/top-rated-products/block.js:225
+#: app/src/block/top-seller-products/block.js:226
+#: app/src/components/tab-product/index.js:156
+msgid "No products found."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:16
+msgid "Total items to show "
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:30
+msgid "Products per Row"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:44
+msgid "Number of Rows"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:58
+msgid "Margin-right(px) on item"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:72
+msgid "Slide by Page"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:86
+msgid "Loop Slider"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:89
+#: app/src/components/grid-layout-control/index.js:105
+#: app/src/components/grid-layout-control/index.js:153
+#: app/src/components/grid-layout-control/index.js:183
+#: app/src/components/product-category-control/index.js:122
+#: app/src/components/product-category-control/index.js:140
+#: app/src/components/responsive-control/index.js:19
+msgid "Enable"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:93
+#: app/src/components/grid-layout-control/index.js:109
+#: app/src/components/product-category-control/index.js:126
+#: app/src/components/product-category-control/index.js:144
+#: app/src/components/responsive-control/index.js:23
+msgid "Disable."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:102
+msgid "Rewind Slider"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:118
+msgid "Pagination"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:121
+msgid "Show Pagination."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:125
+msgid "Hide Pagination."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:134
+msgid "Navigation"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:137
+msgid "Show Navigation."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:141
+msgid "Hide Navigation."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:150
+msgid "Auto Play"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:157
+#: app/src/components/grid-layout-control/index.js:187
+msgid "Disable"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:166
+msgid "Autoplay Interval Timeout."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/grid-layout-control/index.js:180
+msgid "Pause on Mouse Hover"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/block/block.js:146
+#: app/src/block/categories-tab/block.js:183
+#: app/src/block/featured-products/block.js:162
+#: app/src/block/filter-tab/block.js:174
+#: app/src/block/latest-products/block.js:159
+#: app/src/block/on-sale-products/block.js:161
+#: app/src/block/top-rated-products/block.js:159
+#: app/src/block/top-seller-products/block.js:159
+#: app/src/components/responsive-control/index.js:16
+msgid "Responsive"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/responsive-control/index.js:34
+msgid "Items in Desktop"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/responsive-control/index.js:48
+msgid "Items in Tablet"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/responsive-control/index.js:62
+msgid "Items in Mobile"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/advanced-control/index.js:15
+msgid "Sort By"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/advanced-control/index.js:16
+msgid "\"Default\" is ordered by latest products."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/advanced-control/index.js:30
+msgid "Sort Direction"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/advanced-control/index.js:40
+msgid "Use custom tpl"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/advanced-control/index.js:41
+msgid "Use default product tpl from active theme or woocommerce"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/advanced-control/index.js:53
+msgid "Enter custom tpl file you want to use"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/advanced-control/index.js:63
+msgid "Loading"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/components/advanced-control/index.js:70
+msgid "Additional CSS ID"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/components/product-category-control/index.js:79
+msgid "Clear all product categories"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/components/product-category-control/index.js:80
+msgid "Product Categories"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/components/product-category-control/index.js:81
+msgid "Your store doesn't have any product categories."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/components/product-category-control/index.js:85
+msgid "Search for product categories"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/components/product-category-control/index.js:91
+msgid "%d category selected"
+msgid_plural "%d categories selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/components/product-category-control/index.js:99
+msgid "Category search results updated."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/components/product-category-control/index.js:119
+msgid "Category image"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/components/product-category-control/index.js:137
+msgid "Show count"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/block/categories-tab/block.js:147
+msgid "Product Category "
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/build/js/featured-products.js:1
+#: app/build/js/filter-tab.js:1
+#: app/build/js/latest-products.js:1
+#: app/build/js/on-sale-products.js:1
+#: app/build/js/top-rated-products.js:1
+#: app/build/js/top-seller-products.js:1
+#: app/src/block/block.js:126
+#: app/src/block/categories-tab/block.js:163
+#: app/src/block/featured-products/block.js:142
+#: app/src/block/filter-tab/block.js:154
+#: app/src/block/latest-products/block.js:139
+#: app/src/block/on-sale-products/block.js:141
+#: app/src/block/top-rated-products/block.js:139
+#: app/src/block/top-seller-products/block.js:139
+msgid "Layout"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/block/categories-tab/block.js:235
+msgid "Categories Tab"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/block/categories-tab/block.js:238
+msgid "Show product categories by tab"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/block/categories-tab/block.js:217
+#: app/src/block/categories-tab/block.js:226
+msgid "Showing Categories Tabs block preview."
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/block/categories-tab/block.js:250
+msgid "Done"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/block/categories-tab/block.js:257
+msgid "Cancel"
+msgstr ""
+
+#: app/build/js/categories-tab.js:1
+#: app/src/block/categories-tab/block.js:273
+msgid "Select at least one category to display its products."
+msgstr ""
+
+#: app/build/js/filter-tab.js:1
+#: app/src/block/filter-tab/block.js:141
+msgid "Filter Tab"
+msgstr ""
+
+#: app/build/js/filter-tab.js:1
+#: app/src/block/filter-tab/block.js:219
+msgid "Chọn tab"
+msgstr ""
+
+#: app/src/block/block.js:116
+msgid "Sort By & Template"
+msgstr ""
+
+#: app/src/block/block.js:198
+msgid "Latest Products"
+msgstr ""
